@@ -1,0 +1,9 @@
+torch>=1.10.0
+numpy
+scipy
+scikit-learn
+wfdb
+fastapi
+uvicorn
+matplotlib
+seaborn
