@@ -118,13 +118,3 @@ This project is licensed under the MIT License.
 content_copy
 Use code with caution.
 Markdown
-
-Remember to:
-
-Replace placeholders like your-username and your-repository-name with your actual information.
-
-Add specific details about your project's results, including metrics, plots, tables, or figures.
-
-Consider adding a diagram of your model architecture for better visualization.
-
-Tailor the content to accurately reflect your project's unique features and functionalities.
