@@ -117,4 +117,3 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 This project is licensed under the MIT License.
 content_copy
 Use code with caution.
-Markdown
